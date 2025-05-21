@@ -79,5 +79,3 @@ We are using React for frontend UI and Java Spring Boot for backend API with MVC
 # Status: 📶
 Work in Progress...🛠️
 
-# License: ©️
-Apache-2.0 License (**[Check Here](https://github.com/ved-asole/eKart-ecommerce-app/blob/master/LICENSE)**)
